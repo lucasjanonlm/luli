@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "about": "Nasci e recebi o nome do apóstolo Lucas. Nome santo do qual tenho orgulho. Mas minha esposa nunca me chamou assim. Para ela — e espero que um dia para nossos muitos filhos —, sou apenas: Luli.\n\nStat rosa pristina nomine, nomina nuda tenemus.\n\n\n",
+  "about": "Recebi de meus pais o nome do apóstolo Lucas. Nome santo do qual tenho orgulho. Mas minha esposa nunca me chamou assim. Para ela — e espero que um dia para nossos muitos filhos —, sou apenas: Luli.\n\nStat rosa pristina nomine, nomina nuda tenemus.\n\n\n",
   "sections": {
     "poesia": [
       {
@@ -10,19 +10,38 @@
           {
             "id": "lorem-ipsum",
             "title": "Salmo 39",
-            "body": "No Senhor coloquei toda a minha esperança;\ninclinou-se para mim\ne ouviu os meus gritos.\n\nRetirou-me da fossa fatal\ne do lodo do atoleiro,\nassentou os meus pés no rochedo\ne firmou os meus passos.\n\nE pôs nos meus lábios um cântico novo,\num hino a nosso Deus;\nveem muitos e são tomados de respeito,\ne confiam no Senhor.\n\nFeliz o homem que pôs no Senhor a sua confiança\ne não segue os adoradores dos ídolos,\nnem os que se inclinam à mentira.\n\nMultiplicastes, Senhor e Deus meu, os vossos prodígios,\ne nos desígnios em nosso favor ninguém Vos iguala.\nSe eu os quisera narrar e proclamar,\nnúmero não haveria que bastasse.\n\nNão quisestes as vítimas e as oferendas;\nmas me abristes os ouvidos.\nNão pedistes holocausto nem hóstia pelo pecado.\n\nEntão eu disse: “Aqui venho;\nno volume do livro, de mim está escrito:\nfazer a vossa vontade, meu Deus, é meu prazer,\nno fundo de meu coração está a vossa lei”.\n\nNa grande assembleia proclamei a justiça;\nnão cerrei os meus lábios;\nbem o sabeis, Senhor.\n\nNão conservei escondida no meu coração a vossa justiça;\nproclamei a vossa fidelidade e vosso auxílio salvador.\nNão ocultei a vossa bondade e a vossa verdade\nà grande assembleia.\n\nNão afasteis de mim, Senhor, as vossas misericórdias;\nprotejam-me sempre a vossa clemência e a vossa verdade.\n\nCercaram-me desgraças sem conto,\nsenhorearam-me as minhas iniquidades\ne me tolheram a vista;\nsão mais numerosas que os cabelos de minha cabeça;\ndesfaleceu-me o ânimo.\n\nComprazei-Vos, Senhor, em livrar-me;\napressai-Vos, Senhor, em socorrer-me.\n\nCubram-se todos de confusão e de pejo\nos que procuram tirar-me a vida.\nRecuem e corem de pudor\nos que se comprazem na minha desgraça.\n\nEspantem-se com a sua vergonha\nos que me dizem: “Oh! Oh!”\n\nExultem e rejubilem em Vós\ntodos os que Vos procuram.\nE digam sempre: “Glória ao Senhor!”\nos que desejam vosso auxílio.\n\nEu, porém, sou desvalido e pobre,\nmas por mim vela o Senhor.\n\nSois meu protetor e libertador.\nNão tardeis, meu Deus.\n\n*Tradução: Padre Leonel Franca*"
+            "body": "No Senhor coloquei toda a minha esperança;\ninclinou-se para mim\ne ouviu os meus gritos.\n\nRetirou-me da fossa fatal\ne do lodo do atoleiro,\nassentou os meus pés no rochedo\ne firmou os meus passos.\n\nE pôs nos meus lábios um cântico novo,\num hino a nosso Deus;\nveem muitos e são tomados de respeito,\ne confiam no Senhor.\n\nFeliz o homem que pôs no Senhor a sua confiança\ne não segue os adoradores dos ídolos,\nnem os que se inclinam à mentira.\n\nMultiplicastes, Senhor e Deus meu, os vossos prodígios,\ne nos desígnios em nosso favor ninguém Vos iguala.\nSe eu os quisera narrar e proclamar,\nnúmero não haveria que bastasse.\n\nNão quisestes as vítimas e as oferendas;\nmas me abristes os ouvidos.\nNão pedistes holocausto nem hóstia pelo pecado.\n\nEntão eu disse: “Aqui venho;\nno volume do livro, de mim está escrito:\nfazer a vossa vontade, meu Deus, é meu prazer,\nno fundo de meu coração está a vossa lei”.\n\nNa grande assembleia proclamei a justiça;\nnão cerrei os meus lábios;\nbem o sabeis, Senhor.\n\nNão conservei escondida no meu coração a vossa justiça;\nproclamei a vossa fidelidade e vosso auxílio salvador.\nNão ocultei a vossa bondade e a vossa verdade\nà grande assembleia.\n\nNão afasteis de mim, Senhor, as vossas misericórdias;\nprotejam-me sempre a vossa clemência e a vossa verdade.\n\nCercaram-me desgraças sem conto,\nsenhorearam-me as minhas iniquidades\ne me tolheram a vista;\nsão mais numerosas que os cabelos de minha cabeça;\ndesfaleceu-me o ânimo.\n\nComprazei-Vos, Senhor, em livrar-me;\napressai-Vos, Senhor, em socorrer-me.\n\nCubram-se todos de confusão e de pejo\nos que procuram tirar-me a vida.\nRecuem e corem de pudor\nos que se comprazem na minha desgraça.\n\nEspantem-se com a sua vergonha\nos que me dizem: “Oh! Oh!”\n\nExultem e rejubilem em Vós\ntodos os que Vos procuram.\nE digam sempre: “Glória ao Senhor!”\nos que desejam vosso auxílio.\n\nEu, porém, sou desvalido e pobre,\nmas por mim vela o Senhor.\n\nSois meu protetor e libertador.\nNão tardeis, meu Deus.\n\n*Tradução: Padre Leonel Franca*",
+            "aliases": [
+              "poesia/caderno-i/lorem-ipsum.html",
+              "poesia/um-cantico-novo/lorem-ipsum.html"
+            ],
+            "slug": "salmo-39"
           },
           {
             "id": "dolor-sit-amet",
             "title": "Canto I",
-            "body": "Que venha a morte, não temo,\npois naquele instante último\nestarei repleto de significado.\n\nEste corpo que desfalece\né útil como as letras\ne belo como os fonemas.\nAinda assim,\napenas significante."
+            "body": "Que venha a morte, não temo,\npois naquele instante último\nestarei repleto de significado.\n\nEste corpo que desfalece\né útil como as letras\ne belo como os fonemas.\nAinda assim,\napenas significante.",
+            "aliases": [
+              "poesia/caderno-i/dolor-sit-amet.html",
+              "poesia/um-cantico-novo/dolor-sit-amet.html"
+            ],
+            "slug": "canto-i"
           },
           {
             "id": "consectetur-adipiscing",
             "title": "Canto II",
-            "body": "Dentro de mim há um monólito de mármore metafísico.\nUm bloco maciço que nada consegue erodir,\nNem o tempo, nem a vida, nem a morte.\nComo num delírio de Dalí, imagino-o:\nUm cubo. Não, um hipercubo!\nSua sombra desenha a cruz\nOnde se prega o Cristo\nQue morreu incorrupto,\nIndestrutível,\nIndiviso,\nInfinito"
+            "body": "Dentro de mim há um monólito de mármore metafísico.\nUm bloco maciço que nada consegue erodir,\nNem o tempo, nem a vida, nem a morte.\nComo num delírio de Dalí, imagino-o:\nUm cubo. Não, um hipercubo!\nSua sombra desenha a cruz\nOnde se prega o Cristo\nQue morreu incorrupto,\nIndestrutível,\nIndiviso,\nInfinito",
+            "aliases": [
+              "poesia/caderno-i/consectetur-adipiscing.html",
+              "poesia/um-cantico-novo/consectetur-adipiscing.html"
+            ],
+            "slug": "canto-ii"
           }
-        ]
+        ],
+        "aliases": [
+          "poesia/caderno-i/index.html"
+        ],
+        "slug": "um-cantico-novo"
       }
     ],
     "matematica": [],

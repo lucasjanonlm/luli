@@ -39,6 +39,22 @@ eqn { display: block; overflow-x: auto; max-width: 100%; padding: 4px 0; }
 .katex-display { overflow-x: auto; overflow-y: hidden; padding: 4px 0; }
 .reader article h1 { margin-top: 16px; }
 
+.signature img {display:block;width:66px;height:auto;}
+
+.breadcrumbs { display:flex; flex-wrap:wrap; align-items:baseline; gap:0 6px; line-height:1.8; }
+.breadcrumbs a { color:inherit; padding-block:6px; overflow-wrap:anywhere; }
+.breadcrumbs a:hover { color:var(--azul); }
+.page > .breadcrumbs:first-child { margin-top:0; }
+
+/* Assinatura discreta da página inicial. */
+.signature { display:flex; align-items:center; gap:14px; text-align:left; max-width:calc(100% - 32px); }
+.signature:hover { text-decoration:none; }
+.signature-words { display:flex; flex-direction:column; gap:7px; }
+.signature-name { font-size:2rem; line-height:1; letter-spacing:-.03em; }
+.signature-motto { font-family:Arial,sans-serif; color:#777369; font-size:.5rem; line-height:1.5; letter-spacing:.14em; text-transform:uppercase; }
+.signature:hover .signature-name { text-decoration:underline; }
+@media (max-width:400px) { .signature { gap:10px; } .signature img { width:54px; } .signature-name { font-size:1.75rem; } .signature-motto { letter-spacing:.1em; } }
+
 .reader article h2 {font-size:1.4rem;font-weight:normal;margin:2em 0 1em;}
 .reader article img {max-width:100%;height:auto;}
 .reader article pre {overflow-x:auto;font-size:.9rem;}
