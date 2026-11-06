@@ -1,0 +1,47 @@
+/* Cores e tipografia: edite aqui para personalizar. */
+:root { color-scheme: light; --creme: #f7f3e8; --azul: #244dcc; --texto: #37362f; }
+* { box-sizing: border-box; }
+html { background: var(--creme); color: var(--texto); }
+body { margin: 0; font-family: Georgia, 'Times New Roman', serif; -webkit-text-size-adjust: 100%; }
+a { color: var(--azul); text-decoration: none; text-underline-offset: .24em; text-decoration-thickness: 1px; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--azul); outline-offset: 7px; border-radius: 1px; }
+.home { min-height: 100vh; min-height: 100svh; display: grid; place-items: center; padding: 96px 24px; position: relative; }
+.home-nav { display: flex; flex-direction: column; align-items: flex-start; width: max-content; max-width: 100%; transform: translateY(-4vh); }
+.signature { position: absolute; bottom: clamp(16px, 3vw, 32px); left: clamp(16px, 3vw, 40px); display: grid; place-items: center; min-width: 44px; min-height: 44px; font-size: .875rem; line-height: 1.2; }
+.sections { list-style: none; margin: 0; padding: 0; }
+.sections a { display: block; padding-block: 10px; font-size: 1.5rem; line-height: 1.4; }
+.page { width: min(100% - 48px, 600px); margin: 0 auto; padding: clamp(40px, 10vh, 96px) 0 64px; }
+.back { display: inline-flex; align-items: center; min-height: 44px; font-size: 1rem; }
+h1 { font-size: clamp(2rem, 6vw, 2.6rem); font-weight: normal; letter-spacing: -.035em; line-height: 1.2; margin: 56px 0 28px; overflow-wrap: anywhere; }
+p { font-size: 1.125rem; line-height: 1.8; margin: 0 0 1.4em; }
+::selection { background: #dce3fa; color: #163692; }
+
+.catalog { list-style: none; padding: 0; margin: 42px 0 0; }
+.catalog li { margin-bottom: 18px; }
+.catalog a { display: flex; align-items: baseline; gap: 16px; padding: 12px 0; font-size: 1.25rem; line-height: 1.5; }
+.catalog .count { margin-left: auto; font-size: .875rem; color: #777369; white-space: nowrap; }
+.context { color: #777369; font-size: .875rem; margin: 38px 0 0; }
+.reader h1 { margin-top: 16px; margin-bottom: 40px; }
+.reader p { overflow-wrap: break-word; }
+
+.text-navigation { margin-top: 56px; }
+.reading-position { color: #777369; font-size: .8125rem; text-align: center; margin: 0 0 20px; }
+.text-neighbors { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px; }
+.text-neighbors a { font-size: 1rem; line-height: 1.5; padding-block: 8px; overflow-wrap: anywhere; }
+.text-neighbors a span { display: block; color: #777369; font-size: .8125rem; margin-bottom: 5px; }
+.text-neighbors .previous { grid-column: 1; }
+.text-neighbors .next { grid-column: 2; text-align: right; }
+
+/* Fórmulas largas rolam dentro do próprio bloco em telas pequenas. */
+eqn, eq { font-style: normal; }
+eqn { display: block; overflow-x: auto; max-width: 100%; padding: 4px 0; }
+.katex-display { overflow-x: auto; overflow-y: hidden; padding: 4px 0; }
+.reader article h1 { margin-top: 16px; }
+
+.reader article h2 {font-size:1.4rem;font-weight:normal;margin:2em 0 1em;}
+.reader article img {max-width:100%;height:auto;}
+.reader article pre {overflow-x:auto;font-size:.9rem;}
+.reader article blockquote {margin-left:0;padding-left:20px;border-left:1px solid #d7d1c5;}
+.reader article table {display:block;overflow-x:auto;border-collapse:collapse;}
+.reader article td,.reader article th {padding:8px 14px;text-align:left;}

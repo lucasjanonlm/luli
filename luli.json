@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "about": "Nasci e recebi o nome do apóstolo Lucas. Nome santo do qual tenho orgulho. Mas minha esposa nunca me chamou assim. Para ela — e espero que um dia para nossos muitos filhos —, sou apenas: Luli.\n\nStat rosa pristina nomine, nomina nuda tenemus.\n\n\n",
+  "sections": {
+    "poesia": [
+      {
+        "id": "caderno-i",
+        "title": "Um cântico novo",
+        "texts": [
+          {
+            "id": "lorem-ipsum",
+            "title": "Salmo 39",
+            "body": "No Senhor coloquei toda a minha esperança;\n    Inclinou-se para mim,\n    E ouviu os meus gritos.\n\nRetirou-me da fossa fatal,\n    E do lodo do atoleiro,\nAssentou os meus pés no rochedo,\n    E firmou os meus passos.\n\nE pôs nos meus lábios um cântico novo,\n    Um hino a nosso Deus;\nVeem muitos e são tomados de respeito,\n    E confiam no Senhor.\n\n\nFeliz o homem que pôs no Senhor a sua confiança,\n    E não segue os adoradores dos ídolos,\n    Nem os que se inclinam à mentira.\n\nMultiplicastes, Senhor e Deus meu, os vossos prodígios,\nE nos desígnios em nosso favor ninguém Vos iguala.\n    Se eu os quisera narrar e proclamar,\n    Número não haveria que bastasse.\n\n\nNão quisestes as vítimas e as oferendas;\n    Mas me abristes os ouvidos.\nNão pedistes holocausto nem hóstia pelo pecado.\n\nEntão eu disse “Aqui venho;\n    No volume do livro, de mim está escrito:\nFazer a vossa vontade, meu Deus, é meu prazer,\n    No fundo de meu coração está a vossa lei” .\n\nNa grande assembléia proclamei a justiça;\n    Não cerrei os meus lábios;\n    Bom o sabeis, Senhor.\n\nNão conservei escondida no meu coração a vossa justiça;\nProclamei a vossa fidelidade e vosso auxílio salvador.\nNão ocultei a vossa bondade e a vossa verdade\n    Ã grande assembléia.\n\n\nNão afasteis de mim, Senhor, as vossas misericórdias;\nProtejam-me sempre a vossa clemência e a vossa\nverdade.\n\nCercaram-me desgraças sem conto,\n    Senhorearam-me as minhas iniqüidades\n    E me tolheram a vista;\nSão mais numerosas que os cabelos de minha cabeça;\n    Desfaleceu-me o ânimo.\n\n\nComprazei-Vos, Senhor, em livrar-me;\nApressai-Vos, Senhor, em socorrer-me.\n\nCubram-se todos de confusão e de pejo\n    Os que procuram tirar-me a vida.\nRecuem e corem de pudor\n    Os que se comprazem na minha desgraça.\n\nEspantem-se com a sua vergonha\n    Os que me dizem: “ Oh! Oh!”\n\n\nExultem e rejubilem em Vós\n    Todos os que Vos procuram.\nE digam sempre: “Glória ao Senhor!”\n    Os que desejam vosso auxílio.\n\n\nEu, porém, sou desvalido e pobre,\n    Mas por mim vela o Senhor.\n\nSois meu protector e libertador.\n    Não tardeis, meu Deus.\n\nTradução: Padre Leonel Franca"
+          },
+          {
+            "id": "dolor-sit-amet",
+            "title": "Canto I",
+            "body": "Que venha a morte, não temo,\npois naquele instante último\nestarei repleto de significado.\n\nEste corpo que desfalece\né útil como as letras\ne belo como os fonemas.\nAinda assim,\napenas significante."
+          },
+          {
+            "id": "consectetur-adipiscing",
+            "title": "Canto II",
+            "body": "Dentro de mim há um monólito de mármore metafísico.\nUm bloco maciço que nada consegue erodir,\nNem o tempo, nem a vida, nem a morte.\nComo num delírio de Dalí, imagino-o:\nUm cubo. Não, um hipercubo!\nSua sombra desenha a cruz\nOnde se prega o Cristo\nQue morreu incorrupto,\nIndestrutível,\nIndiviso,\nInfinito"
+          }
+        ]
+      }
+    ],
+    "matematica": [],
+    "opiniao": []
+  }
+}
