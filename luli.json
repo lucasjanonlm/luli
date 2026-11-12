@@ -48,6 +48,19 @@
           "poesia/caderno-i/index.html"
         ],
         "slug": "um-cantico-novo"
+      },
+      {
+        "id": "p-9c186402-308e-4f74-9cec-e313b7d8c551",
+        "slug": "apokalypsis",
+        "title": "Apokalypsis",
+        "texts": [
+          {
+            "id": "t-b771a030-2bbd-4c13-ba69-8521d2fcf057",
+            "slug": "prologo",
+            "title": "Prólogo",
+            "body": "Não explicarei como tomei o caminho tortuoso e nele me perdi. Não é recusa: é incapacidade. Ninguém pede ao sonâmbulo que recorde o que fez dormindo. Em algum momento, recobrei a consciência. O primeiro milagre foi aperceber-me miserável.\n\nOs animais desconhecem a própria mortalidade. Afastam-se da carcaça pelo cheiro, não pela ideia do fim. Fogem do que os ameaça, nunca da morte. Deles me separa essa ciência. A eles me une apenas a dor.\n\nEu sinto dor e tenho medo. Morro de medo. Vivo com medo de morrer.\n\nÉ que toda palavra que me sai da boca pode ser a última. Toda gota de saliva. Toda redundância, todo pleonasmo. Toda inutilidade."
+          }
+        ]
       }
     ],
     "matematica": [],
